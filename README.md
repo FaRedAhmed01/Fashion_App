@@ -1,6 +1,7 @@
 # fashion_app
 
-Fashion App Ui designn
+Fashion App Ui design
+Design credit - https://dribbble.com/shots/5544567-Mobile-Shopping/attachments/1199413
 
 ## Getting Started
 
